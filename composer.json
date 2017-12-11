@@ -1,12 +1,12 @@
 {
-    "name": "jmartinez/yii2-jota-ics",
+    "name": "user1007017/yii2-jota-ics",
     "description": "ICS yii2 class",
     "type": "yii2-extension",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jorge Martinez",
-            "email": "jmartinezv85@gmail.com"
+            "name": "Obiwan Ben Kinobi",
+            "email": "user1007017@gmail.com"
         }
     ],
     "require": {
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "jmartinez\\yii\\": ""
+            "user1007017\\yii\\": ""
         }
     }
 }

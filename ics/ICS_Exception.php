@@ -6,7 +6,7 @@
  * @Last Modified time: 2017-02-08 00:35:34
  */
 
-namespace jmartinez\yii\ics;
+namespace user1007017\yii\ics;
 
 use Exception;
 
