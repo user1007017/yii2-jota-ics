@@ -1,12 +1,14 @@
 <?php
-namespace jmartinez\yii\ics;
+namespace user1007017\yii\ics;
 
 use DateTime;
 use ReflectionClass;
 use ReflectionProperty;
-use jmartinez\yii\ics\ICS_Exception;
+use user1007017\yii\ics\ICS_Exception;
 /**
  * Class to create an .ics file.
+ * forked from jmartinez - some modifications to process multiple VEVENTS
+ * and build_footer and build_header VCALENDAR
  */
 
 class ICS {
